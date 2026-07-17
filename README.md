@@ -1,6 +1,6 @@
 # Proton Therapy Laboratory Portfolio ☢️
 
-Welcome to my Proton Therapy Portfolio! This repository contains a collection of advanced laboratory assignments and projects completed during my Master's Degree. 
+Welcome to my Proton Therapy Portfolio! This repository contains a collection of advanced laboratory assignments and projects completed during the "Engineering challenges in protontherapy" (LGBIO 2070) course at UCLouvain. I attended this course as part of my Erasmus exchange program.
 
 The projects focus on the core physical and computational aspects of proton therapy, ranging from particle transport simulations to beam optics optimization and treatment planning using real patient data.
 
